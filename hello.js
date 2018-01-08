@@ -1,3 +1,3 @@
 var foo = function(){
-    alert("Hello world!");
+    alert("Hello world!");//good
 }
